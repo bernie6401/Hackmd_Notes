@@ -18,7 +18,6 @@
 - [Host Ping VM](https://hackmd.io/@SBK6401/rJB23jzdp)
 - [Port Forwarding](https://hackmd.io/@SBK6401/r1pLajfup)
 - [How to build VM's service?](https://hackmd.io/@SBK6401/SkAMAiM_a)
-- [How to do Version Control?](https://hackmd.io/@SBK6401/HkjshSHY6)
 - [VM連到gitlab](https://hackmd.io/ZaEeaGtRTdGyRHVV01bpTw)
     ### Unlock System
     - [Unlock系統查詢流量限制](https://hackmd.io/@SBK6401/ByJAwYGt6)
