@@ -28,3 +28,7 @@
     - [NTU PADNS](https://hackmd.io/@SBK6401/SkO-xVn8p)
     - [NTU CS](https://hackmd.io/@SBK6401/SJQPqax0o)
     - [Tai.HolyHigh](https://hackmd.io/@SBK6401/rkOhoYXfp)
+
+    ## Paper
+    - [論文](https://hackmd.io/@SBK6401/r1a55bnT6)
+    - [論文筆記](https://hackmd.io/@SBK6401/r1a55bnT6)
